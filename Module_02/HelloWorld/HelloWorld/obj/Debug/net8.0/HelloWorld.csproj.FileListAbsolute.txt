@@ -1,0 +1,14 @@
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_02\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

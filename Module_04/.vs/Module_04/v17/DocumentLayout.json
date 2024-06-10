@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning to Code\\PluralSight - UKG\\C# Fundamentals\\Module_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2E1817-5EA7-4C1E-BC62-6868F5DF4B2C}|Module_04\\Module_04.csproj|d:\\learning to code\\pluralsight - ukg\\c# fundamentals\\module_04\\module_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2E1817-5EA7-4C1E-BC62-6868F5DF4B2C}|Module_04\\Module_04.csproj|solutionrelative:module_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning to Code\\PluralSight - UKG\\C# Fundamentals\\Module_04\\Module_04\\Program.cs",
+              "RelativeDocumentMoniker": "Module_04\\Program.cs",
+              "ToolTip": "D:\\Learning to Code\\PluralSight - UKG\\C# Fundamentals\\Module_04\\Module_04\\Program.cs",
+              "RelativeToolTip": "Module_04\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:38:19.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

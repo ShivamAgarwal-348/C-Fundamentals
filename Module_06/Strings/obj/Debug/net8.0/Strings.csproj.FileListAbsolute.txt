@@ -1,0 +1,14 @@
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\bin\Debug\net8.0\Strings.exe
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\bin\Debug\net8.0\Strings.deps.json
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\bin\Debug\net8.0\Strings.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\bin\Debug\net8.0\Strings.pdb
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\Strings.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\refint\Strings.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\Strings.pdb
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\Module_06\Strings\obj\Debug\net8.0\ref\Strings.dll

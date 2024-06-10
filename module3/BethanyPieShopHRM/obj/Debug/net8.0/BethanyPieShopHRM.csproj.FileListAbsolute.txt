@@ -1,0 +1,14 @@
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.exe
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.deps.json
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.runtimeconfig.json
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\bin\Debug\net8.0\BethanyPieShopHRM.pdb
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.AssemblyInfoInputs.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.AssemblyInfo.cs
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.csproj.CoreCompileInputs.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\refint\BethanyPieShopHRM.dll
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.pdb
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\BethanyPieShopHRM.genruntimeconfig.cache
+D:\Learning to Code\PluralSight - UKG\C# Fundamentals\module3\BethanyPieShopHRM\obj\Debug\net8.0\ref\BethanyPieShopHRM.dll
